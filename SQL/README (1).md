@@ -1,10 +1,8 @@
+
 # LearningConnect Design Document
 
 By Aldona Stolarz
-https://github.com/me50/Aldona1511.git
-edX usernames: Aldona1511
 
-Video overview: <https://youtu.be/O3-9sOwKbZo?si=xzK82kMMcauow7_N>
 
 ## Scope
 
@@ -104,10 +102,10 @@ LearningConnect database is to facilitate and enhance the learning esperience by
 - FOREIGN KEY(`user_id`) REFERENCES users(`user_id`)
 
 ### Relationships
-
 The entity relationship diagram below describes the relationships between entities in my database.
-![LearningConnect](https://imgur.com/SmdzA7E.jpg)
 
+
+![LearningConnect](https://imgur.com/O6QShff.jpg)
 **Descriptions:**
 - Users can enroll in multiple Courses (one-to-many).
 - Users can have multiple progress records in user_progress (one-to-many).
@@ -129,3 +127,10 @@ The entity relationship diagram below describes the relationships between entiti
 ## Limitations
 - The platform does not handle financial transactions and detailed personal finance management.
 - LearningConnect database remains focused on its core purpose of enhancing the educational and social interaction experience without the complexities and security concerns.
+
+
+
+### Video demo of my project:
+
+
+https://youtu.be/O3-9sOwKbZo?si=xzK82kMMcauow7_N
