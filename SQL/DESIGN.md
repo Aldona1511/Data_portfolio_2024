@@ -1,10 +1,6 @@
 # LearningConnect Design Document
 
 By Aldona Stolarz
-https://github.com/me50/Aldona1511.git
-edX usernames: Aldona1511
-
-Video overview: <https://youtu.be/O3-9sOwKbZo?si=xzK82kMMcauow7_N>
 
 ## Scope
 
