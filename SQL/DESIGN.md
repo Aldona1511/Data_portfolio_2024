@@ -102,7 +102,7 @@ LearningConnect database is to facilitate and enhance the learning esperience by
 ### Relationships
 
 The entity relationship diagram below describes the relationships between entities in my database.
-![LearningConnect](https://imgur.com/SmdzA7E.jpg)
+![LearningConnect](https://imgur.com/06QShff.jpg)
 
 **Descriptions:**
 - Users can enroll in multiple Courses (one-to-many).
